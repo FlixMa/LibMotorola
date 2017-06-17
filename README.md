@@ -1,11 +1,5 @@
-LibMotorola
-===========
+# LibMotorola - TurnOutDecoder
+Enhanced for servo-driven Turnouts
 
-Märklin Ditigal / Motorola Decoder Library
-
-This is an arduino library, that can decode the Märklin-Motorola model railway digital ćontroller signals. 
-
-Code and Schematics are given for using an arduino as a turnout decoder in the märklin-motorola system.
-
-See the doc directory for further information (german)
-
+This library decodes the signals send by an control-unit using the Märklin-Motorola protocol.
+It is written for use on an Arduino and tested with an Mega2560.
